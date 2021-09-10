@@ -18,3 +18,4 @@ Add a Department, Role, and an Employee.
 
 ## Tutorial
 
+https://user-images.githubusercontent.com/32405255/132778720-47658fa5-290d-4c5a-b9c1-4f40f738de1f.mp4
